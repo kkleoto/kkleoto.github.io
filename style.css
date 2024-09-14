@@ -41,11 +41,11 @@ body > header {
 
 body>header>nav>ul {
     list-style: none;
-    text-decoration:none ;
+    text-decoration:none;
 }
 
 .navbutton {
-    color:#791E94 ;
+    color:#791E94;
     text-decoration: none;
     padding: 12px;
     border: 1px solid white;
